@@ -1,4 +1,4 @@
-# <b><font color = 'orange'>web_scraping
+# <b><font color = 'orange'>web_scraping</font>
 1. make a get request to the website
 2. locate the desired data that you want to extract
 3. scrape the data
